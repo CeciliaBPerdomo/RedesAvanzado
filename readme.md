@@ -11,7 +11,8 @@
     - Proyección y Gestión de Presupuesto
     - Estrategias Clave
     - Actividad práctica: Bocetando el Buyer Persona
-
+- **Campañas En Meta**
+    - Introducción a Meta Ads
 
 
 ## Material adicional

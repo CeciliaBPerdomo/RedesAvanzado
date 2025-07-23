@@ -8,3 +8,4 @@
 - **Publicidad avanzada y meta Ads**
     - Introducción a las Plataformas de Publicidad
     - Aplicación Práctica en Meta Ads
+    - Proyección y Gestión de Presupuesto

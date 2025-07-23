@@ -15,6 +15,7 @@
     - Introducción a Meta Ads
     - Configuración de Campaña de Alcance
     - Creación de Campaña de Leads
+    - Optimización y Publicación
 
 
 ## Material adicional

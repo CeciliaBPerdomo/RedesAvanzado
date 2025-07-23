@@ -13,6 +13,7 @@
     - Actividad práctica: Bocetando el Buyer Persona
 - **Campañas En Meta**
     - Introducción a Meta Ads
+    - Configuración de Campaña de Alcance
 
 
 ## Material adicional

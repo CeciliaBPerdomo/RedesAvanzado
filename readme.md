@@ -16,6 +16,8 @@
     - Configuración de Campaña de Alcance
     - Creación de Campaña de Leads
     - Optimización y Publicación
+    - Actividad práctica: Campañas de awareness y leads
+    - Actividad práctica: Campañas venta y conversiones
 
 
 ## Material adicional

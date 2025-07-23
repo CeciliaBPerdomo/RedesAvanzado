@@ -20,16 +20,12 @@
     - Actividad práctica: Campañas venta y conversiones
 
 
-## Material adicional
-- Sobre Buyer persona 
-    - Segmentación de anuncios según el público | Meta
-    - https://www.facebook.com/business/ads/ad-targeting
-- Sobre Buyer persona 
-    - Generador de Buyer persona | hubspot
-    - https://www.hubspot.es/make-my-persona
-- Asistente para píxeles de Meta
-    - https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/
-- Crear un catálogo en el administrador de ventas
-    - https://www.facebook.com/business/help/1275400645914358?id=725943027795860
-- Configurar una tienda en Facebook e Instagram
-    - https://www.facebook.com/business/help/268860861184453?id=1077620002609475
+## 🧠 Recursos Útiles para Publicidad y Buyer Persona
+
+| 📌 Tema | 📚 Recurso | 🔗 Enlace |
+|--------|------------|----------|
+| 🎯 Segmentación de anuncios | Meta Business – Guía de segmentación de anuncios | https://www.facebook.com/business/ads/ad-targeting |
+| 👤 Generador de Buyer Persona | HubSpot – Generador interactivo de buyer persona | https://www.hubspot.es/make-my-persona |
+| 🧩 Meta Pixel | Asistente para píxeles de Meta (Pixel Helper) | https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/ |
+| 🛒 Catálogo de productos | Crear un catálogo en el Administrador de Ventas | https://www.facebook.com/business/help/1275400645914358?id=725943027795860 |
+| 🏬 Tienda en redes | Configurar una tienda en Facebook e Instagram | https://www.facebook.com/business/help/268860861184453?id=1077620002609475 |

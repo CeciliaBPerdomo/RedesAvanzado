@@ -27,3 +27,9 @@
 - Sobre Buyer persona 
     - Generador de Buyer persona | hubspot
     - https://www.hubspot.es/make-my-persona
+- Asistente para píxeles de Meta
+    - https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/
+- Crear un catálogo en el administrador de ventas
+    - https://www.facebook.com/business/help/1275400645914358?id=725943027795860
+- Configurar una tienda en Facebook e Instagram
+    - https://www.facebook.com/business/help/268860861184453?id=1077620002609475

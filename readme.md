@@ -33,3 +33,5 @@
 | 🧩 Meta Pixel | Asistente para píxeles de Meta (Pixel Helper) | https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/ |
 | 🛒 Catálogo de productos | Crear un catálogo en el Administrador de Ventas | https://www.facebook.com/business/help/1275400645914358?id=725943027795860 |
 | 🏬 Tienda en redes | Configurar una tienda en Facebook e Instagram | https://www.facebook.com/business/help/268860861184453?id=1077620002609475 |
+| 🏢 Certificación en Google | Master the Google tools you use at work with online training | https://skillshop.withgoogle.com/ |
+| 🚀 Certificación en Meta Blueprint | Descubre cursos de aprendizaje, programas de capacitación y certificaciones online que te ayudarán a sacar el máximo provecho de las tecnologías de Meta. | https://www.facebook.com/business/learn |

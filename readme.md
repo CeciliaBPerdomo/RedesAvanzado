@@ -18,6 +18,10 @@
     - Optimización y Publicación
     - Actividad práctica: Campañas de awareness y leads
     - Actividad práctica: Campañas venta y conversiones
+- **Estrategias Avanzadas en Meta Ads**
+    - Identificación de audiencias
+    - Creación y optimación de campañas
+    - Análisis y reportes    
 
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona

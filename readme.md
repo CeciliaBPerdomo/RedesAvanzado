@@ -28,7 +28,13 @@
     - Configuración de una Campaña
     - Creación y Optimización de Anuncios de Texto
     - Actividad práctica: Estructura de campañas
-
+- **Avanzando con Google Ads**
+    - Repaso de Campañas
+    - Preparación para la certificación
+    - Ejemplos prácticos
+    - Actividad práctica:
+- **Gestión de Campañas Display**
+    - 
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona
 

@@ -21,7 +21,8 @@
 - **Estrategias Avanzadas en Meta Ads**
     - Identificación de audiencias
     - Creación y optimación de campañas
-    - Análisis y reportes    
+    - Análisis y reportes
+    - Actividad práctica:Campaña de tráfico/mensajes    
 
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona
@@ -35,3 +36,5 @@
 | 🏬 Tienda en redes | Configurar una tienda en Facebook e Instagram | https://www.facebook.com/business/help/268860861184453?id=1077620002609475 |
 | 🏢 Certificación en Google | Master the Google tools you use at work with online training | https://skillshop.withgoogle.com/ |
 | 🚀 Certificación en Meta Blueprint | Descubre cursos de aprendizaje, programas de capacitación y certificaciones online que te ayudarán a sacar el máximo provecho de las tecnologías de Meta. | https://www.facebook.com/business/learn |
+| Segmentación de anuncios según el público | Meta Business | https://www.facebook.com/business/ads/ad-targeting?ref=fbb_adsmanager_products | 
+| Administrador de anuncios | Meta Business | https://www.facebook.com/business/tools/ads-manager/tips |

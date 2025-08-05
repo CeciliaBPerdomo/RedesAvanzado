@@ -22,7 +22,12 @@
     - Identificación de audiencias
     - Creación y optimación de campañas
     - Análisis y reportes
-    - Actividad práctica:Campaña de tráfico/mensajes    
+    - Actividad práctica:Campaña de tráfico/mensajes 
+- **Campañas en Google Ads**
+    - Introducción a las Palabras Clave
+    - Configuración de una Campaña
+    - Creación y Optimización de Anuncios de Texto
+    - Actividad práctica: Estructura de campañas
 
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona

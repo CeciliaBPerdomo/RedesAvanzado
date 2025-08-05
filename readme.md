@@ -34,7 +34,9 @@
     - Ejemplos prácticos
     - Actividad práctica:
 - **Gestión de Campañas Display**
-    - 
+    - Creación de Campañas Display
+    - Optimización de Campañas
+    - Gestión de múltiples cuentas
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona
 

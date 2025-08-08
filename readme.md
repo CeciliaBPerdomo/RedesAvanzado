@@ -51,3 +51,4 @@
 | 🚀 Certificación en Meta Blueprint | Descubre cursos de aprendizaje, programas de capacitación y certificaciones online que te ayudarán a sacar el máximo provecho de las tecnologías de Meta. | https://www.facebook.com/business/learn |
 | Segmentación de anuncios según el público | Meta Business | https://www.facebook.com/business/ads/ad-targeting?ref=fbb_adsmanager_products | 
 | Administrador de anuncios | Meta Business | https://www.facebook.com/business/tools/ads-manager/tips |
+| Insights. Ideas. Inspiración. Lleva tu marketing al próximo nivel con Think with Google. | Think with Google | https://www.thinkwithgoogle.com/intl/es-419/ |

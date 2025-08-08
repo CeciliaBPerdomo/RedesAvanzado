@@ -37,6 +37,10 @@
     - Creación de Campañas Display
     - Optimización de Campañas
     - Gestión de múltiples cuentas
+- **Google Analytics Avanzado**
+    - Introducción a Google Analytics
+    - Configuración y Filtros
+    - Segmentación de Audiencias    
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona
 

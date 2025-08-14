@@ -33,6 +33,8 @@
     - Preparación para la certificación
     - Ejemplos prácticos
     - Actividad práctica:
+        - Campañas Shopping, Universal de Aplicación y YouTube
+        - Campaña de Display
 - **Gestión de Campañas Display**
     - Creación de Campañas Display
     - Optimización de Campañas

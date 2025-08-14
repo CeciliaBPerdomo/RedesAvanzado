@@ -48,13 +48,13 @@
 
 | 📌 Tema | 📚 Recurso | 🔗 Enlace |
 |--------|------------|----------|
-| 🎯 Segmentación de anuncios | Meta Business | https://www.facebook.com/business/ads/ad-targeting |
-| 👤 Generador de Buyer Persona | HubSpot | https://www.hubspot.es/make-my-persona |
+| 🎯 Segmentación de anuncios | Meta Business | [Publicidad segmentada en Facebook](https://www.facebook.com/business/ads/ad-targeting) |
+| 👤 Generador de Buyer Persona | HubSpot | [Generador de buyer personas](https://www.hubspot.es/make-my-persona) |
 | 🧩 Asistente para píxeles de Meta (Pixel Helper) | Meta Pixel  | https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/ |
-| 🛒 Catálogo de productos | Crear un catálogo en el Administrador de Ventas | https://www.facebook.com/business/help/1275400645914358?id=725943027795860 |
-| 🏬 Configurar una tienda en Facebook e Instagram | Tienda en redes | https://www.facebook.com/business/help/268860861184453?id=1077620002609475 |
-| 🏢 Certificación en Google  Master the Google tools you use at work with online training | skillShop | https://skillshop.withgoogle.com/ |
-| 🚀 Descubre cursos de aprendizaje, programas de capacitación y certificaciones online que te ayudarán a sacar el máximo provecho de las tecnologías de Meta. | Certificación en Meta Blueprint  | https://www.facebook.com/business/learn |
-| 🌀​ Segmentación de anuncios según el público | Meta Business | https://www.facebook.com/business/ads/ad-targeting?ref=fbb_adsmanager_products | 
-| 📖​ Administrador de anuncios | Meta Business | https://www.facebook.com/business/tools/ads-manager/tips |
-| 📉​ Insights. Ideas. Inspiración. Lleva tu marketing al próximo nivel con Think with Google. | Think with Google | https://www.thinkwithgoogle.com/intl/es-419/ |
+| 🛒 Catálogo de productos | Crear un catálogo en el Administrador de Ventas | [Meta Pixel Helper](https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/) |
+| 🏬 Configurar una tienda en Facebook e Instagram | Tienda en redes | [Configurar una tienda](https://www.facebook.com/business/help/268860861184453?id=1077620002609475) |
+| 🏢 Certificación en Google  Master the Google tools you use at work with online training | skillShop | [Google Skillshop](https://skillshop.withgoogle.com/) |
+| 🚀 Descubre cursos de aprendizaje, programas de capacitación y certificaciones online que te ayudarán a sacar el máximo provecho de las tecnologías de Meta. | Certificación en Meta Blueprint  | [Meta Blueprint](https://www.facebook.com/business/learn) |
+| 🌀​ Segmentación de anuncios según el público | Meta Business | [Targeting de anuncios](https://www.facebook.com/business/ads/ad-targeting?ref=fbb_adsmanager_products) | 
+| 📖​ Administrador de anuncios | Meta Business | [Consejos para usar Ads Manager](https://www.facebook.com/business/tools/ads-manager/tips) |
+| 📉​ Insights. Ideas. Inspiración. Lleva tu marketing al próximo nivel con Think with Google. | Think with Google | [Think with Google](https://www.thinkwithgoogle.com/intl/es-419/) |

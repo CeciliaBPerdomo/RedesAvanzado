@@ -59,3 +59,5 @@
 | 📖​ **Administrador de anuncios** | Meta Business | [Consejos para usar Ads Manager](https://www.facebook.com/business/tools/ads-manager/tips) |
 | 📉​ Insights. Ideas. Inspiración. Lleva tu marketing al próximo nivel con **Think with Google**. | Think with Google | [Think with Google](https://www.thinkwithgoogle.com/intl/es-419/) |
 | **Realiza cambios en todas tus campañas con facilidad** | Google Ads | [Business Google](https://business.google.com/es-all/ad-tools/google-ads-editor/) |
+| **El blog de metricool** | Metricool | [Metricool](https://metricool.com/es/blog/) | 
+| **El blog de hubspot** | Hubspot | [Hubspot](https://blog.hubspot.es/) | 

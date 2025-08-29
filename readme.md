@@ -1,6 +1,8 @@
-# Publicidad en Redes Avanzado
+<img src="Cecilia_Perdomo.png">
 
-## Temario
+# 📊​ Publicidad en Redes Avanzado
+
+## 📖​ Temario
 - **Nivelación**
     - Onboarding
     - Crea tu cuenta Business Manager
@@ -42,7 +44,9 @@
 - **Google Analytics Avanzado**
     - Introducción a Google Analytics
     - Configuración y Filtros
-    - Segmentación de Audiencias    
+    - Segmentación de Audiencias  
+- **Monitoreo Campañas Google Analytics**
+    - Uso de Métricas en Campañas
 
 ## 🧠 Recursos Útiles para Publicidad y Buyer Persona
 

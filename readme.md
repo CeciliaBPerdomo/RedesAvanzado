@@ -48,7 +48,7 @@
 - **Monitoreo Campañas Google Analytics**
     - Uso de Métricas en Campañas
 
-## 🧠 Recursos Útiles para Publicidad y Buyer Persona
+## 🧠 Recursos Útiles
 
 | 📌 Tema | 📚 Recurso | 🔗 Enlace |
 |--------|------------|----------|

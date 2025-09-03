@@ -47,6 +47,7 @@
     - Segmentación de Audiencias  
 - **Monitoreo Campañas Google Analytics**
     - Uso de Métricas en Campañas
+    - Seguimiento de Eventos y Conversiones    
 
 ## 🧠 Recursos Útiles
 

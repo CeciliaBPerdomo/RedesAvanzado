@@ -65,3 +65,6 @@
 | **Realiza cambios en todas tus campañas con facilidad** | Google Ads | [Business Google](https://business.google.com/es-all/ad-tools/google-ads-editor/) |
 | **El blog de metricool** | Metricool | [Metricool](https://metricool.com/es/blog/) | 
 | **El blog de hubspot** | Hubspot | [Hubspot](https://blog.hubspot.es/) | 
+| **La plataforma de marketing líder impulsada por IA** | Semrush | [Semrush](https://es.semrush.com/) |
+| **Find Great Keywords Using Google Autocomplete** | Keyword Tool | [KeyWord](https://keywordtool.io/) | 
+| **Google Ads & Commerce** : News and updates about Google Ads and Commerce products. | Official Blog | [GoogleBlog](https://blog.google/products/ads-commerce/)|

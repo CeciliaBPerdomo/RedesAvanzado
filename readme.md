@@ -52,6 +52,7 @@
 - **Avanzando en publicidad digital**
 - **Inteligencia artificial en redes**
     - Introducción a la IA en Publicidad en Redes
+    - Campañas publicitarias con IA
 
 ## 🧠 Recursos Útiles
 

@@ -54,6 +54,7 @@
     - Introducción a la IA en Publicidad en Redes
     - Campañas publicitarias con IA
     - Audiencias y métricas
+    - Reflexión Final
 
 ## 🧠 Recursos Útiles
 

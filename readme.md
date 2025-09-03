@@ -48,6 +48,10 @@
 - **Monitoreo Campañas Google Analytics**
     - Uso de Métricas en Campañas
     - Seguimiento de Eventos y Conversiones    
+    - Monitoreo y Reportes
+- **Avanzando en publicidad digital**
+- **Inteligencia artificial en redes**
+    - Introducción a la IA en Publicidad en Redes
 
 ## 🧠 Recursos Útiles
 

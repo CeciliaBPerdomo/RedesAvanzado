@@ -50,6 +50,9 @@
     - Seguimiento de Eventos y Conversiones    
     - Monitoreo y Reportes
 - **Avanzando en publicidad digital**
+    - Introducción a Looker Studio
+    - Funcionalidades de Looker Studio
+    - Mercado Laboral en publicidad digital
 - **Inteligencia artificial en redes**
     - Introducción a la IA en Publicidad en Redes
     - Campañas publicitarias con IA

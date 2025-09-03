@@ -1,0 +1,1 @@
+# Funcionalidades de Looker Studio

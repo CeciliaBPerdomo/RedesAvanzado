@@ -2,6 +2,8 @@
     <img src="../../../Cecilia_Perdomo.png">
 </div>
 
+# Publicidad en Búsqueda de Google Ads
+
 ## Descripción del curso
 Demuestra tu dominio de las técnicas para crear y optimizar campañas de Búsqueda de Google. Los usuarios certificados deben demostrar que pueden aprovechar las soluciones automatizadas, como las Ofertas inteligentes, para mejorar el rendimiento de las campañas en función de objetivos de marketing específicos.
 
@@ -33,3 +35,6 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
     - Aumenta el valor de los consumidores con las ofertas basadas en el valor
 - **Usa herramientas para ayudar a que tu empresa crezca**
 - **Optimiza las campañas de búsqueda potenciadas con la IA según los objetivos comerciales**
+
+
+## Certificación

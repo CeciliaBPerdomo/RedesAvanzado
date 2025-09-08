@@ -13,11 +13,23 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
 
 ## Temario
 - **Comienza a usar las campañas de búsqueda potenciadas por la IA**
+    - Descubre los anuncios de búsqueda potenciados por IA
+    - Reconoce el valor de los anuncios de búsqueda potenciados por IA
+    - Crea una campaña de Búsqueda potenciada por IA
 - **Comprende la subasta de Google**
+    - Conoce las subastas de Google Ads
 - **Atrae a usuarios con los anuncios de búsqueda potenciados por IA**
     - Crea una estrategia de palabras clave para llegar a los usuarios
     - Accede a nuevas oportunidades con la concordancia amplia
 - **Llega a tus usuarios con los anuncios de búsqueda responsivos**
     - Atrae a los usuarios con creatividades potenciadas por IA
     - Mejora los anuncios con recursos
-    - Aumenta la relevancia usando creatividades personalizadas
+    - Aumenta la relevancia usando creatividades personalizadas.
+- **Explora estrategias de ofertas para anuncios de búsqueda potenciados por IA**
+    - Explora las estrategias de ofertas con la Búsqueda.
+    - Comprende cómo funcionan las ofertas basadas en el valor.
+    - Crea estrategias de ofertas para anuncios de búsqueda.
+    - Incentiva el uso de estrategias basadas en conversiones en la Búsqueda
+    - Aumenta el valor de los consumidores con las ofertas basadas en el valor
+- **Usa herramientas para ayudar a que tu empresa crezca**
+- **Optimiza las campañas de búsqueda potenciadas con la IA según los objetivos comerciales**

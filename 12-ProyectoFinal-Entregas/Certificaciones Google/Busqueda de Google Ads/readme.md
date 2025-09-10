@@ -37,6 +37,7 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
     - Aplica recomendaciones automáticamente
     - Optimiza presupuestos con el Planificador de rendimiento
 - **Optimiza las campañas de búsqueda potenciadas con la IA según los objetivos comerciales**
-
+    - Descubre el valor del nivel de optimización
+    - Multiplica los resultados con las campañas de Búsqueda y de máximo rendimiento potenciadas por IA
 
 ## Certificación

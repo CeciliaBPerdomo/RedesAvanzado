@@ -80,3 +80,5 @@
 | **Find Great Keywords Using Google Autocomplete** | Keyword Tool | [KeyWord](https://keywordtool.io/) | 
 | **Google Ads & Commerce** : News and updates about Google Ads and Commerce products. | Official Blog | [GoogleBlog](https://blog.google/products/ads-commerce/)|
 | **Ayuda de Google Analytics** | Google Analytics | [Google Analytics](https://support.google.com/analytics/answer/6367342#about&zippy=%2Cen-este-art%C3%ADculo-se-incluye-lo-siguiente) |
+| **Capacitación, herramientas y recursos gratuitos** que te ayudarán a desarrollar tus habilidades, tu carrera o tu negocio. | Grow with Google | [Grow with Google](https://grow.google/intl/es-419_us/) |
+| **Loker Studio** | Loker Studio | [Loker Studio](https://lookerstudio.google.com/u/0/navigation/reporting) |

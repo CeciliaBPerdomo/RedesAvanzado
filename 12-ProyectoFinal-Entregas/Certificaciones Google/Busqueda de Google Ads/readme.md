@@ -34,6 +34,8 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
     - Incentiva el uso de estrategias basadas en conversiones en la Búsqueda
     - Aumenta el valor de los consumidores con las ofertas basadas en el valor
 - **Usa herramientas para ayudar a que tu empresa crezca**
+    - Aplica recomendaciones automáticamente
+    - Optimiza presupuestos con el Planificador de rendimiento
 - **Optimiza las campañas de búsqueda potenciadas con la IA según los objetivos comerciales**
 
 

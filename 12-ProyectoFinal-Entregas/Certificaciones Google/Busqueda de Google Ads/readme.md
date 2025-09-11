@@ -15,7 +15,6 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
 
 ## Temario
 - **Comienza a usar las campañas de búsqueda potenciadas por la IA**
-    - Descubre los anuncios de búsqueda potenciados por IA
     - Reconoce el valor de los anuncios de búsqueda potenciados por IA
     - Crea una campaña de Búsqueda potenciada por IA
 - **Comprende la subasta de Google**

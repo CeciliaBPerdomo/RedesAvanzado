@@ -40,3 +40,4 @@ Con la certificación de Publicidad en Búsqueda de Google Ads, Google reconoce 
     - Multiplica los resultados con las campañas de Búsqueda y de máximo rendimiento potenciadas por IA
 
 ## Certificación
+![BúsquedaGoogle](image.png)

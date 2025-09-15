@@ -4,7 +4,7 @@
 
 # Publicidad en Display de Google Ads
 
-## escripción del curso
+## Descripción del curso
 Valida tus conocimientos de Google Display para obtener resultados que aprovechen al máximo tu inversión en publicidad gráfica. Los usuarios certificados deben demostrar su habilidad para desarrollar estrategias y campañas de Display eficaces que cumplan objetivos de marketing específicos.
 
 Con la certificación de Publicidad en Display de Google Ads, Google reconoce que puedes realizar lo siguiente:

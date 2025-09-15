@@ -18,5 +18,10 @@ Con la certificación de Publicidad en Display de Google Ads, Google reconoce qu
 - Identifica los tipos de campaña en Google Display ads
     - Publicidad gráfica en Google Display ads
     - Tipos de campaña de Display
+- Llega a los usuarios con Google Display ads
+    - Orientación de la Red de Display
+    - Generar conocimiento de la marca
+    - Influir en la consideración
+    - Impulsar la acción
 
 ## Certificación

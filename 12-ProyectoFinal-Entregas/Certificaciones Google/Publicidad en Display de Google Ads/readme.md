@@ -31,5 +31,8 @@ Con la certificación de Publicidad en Display de Google Ads, Google reconoce qu
     - Anuncios de display responsivos
     - Anuncios cargados
 - **Aumenta las conversiones con el planificador de rendimiento**
-
+    - Por qué deberías organizarte para mejorar el rendimiento con el Planificador de rendimiento
+    - Cómo usar el Planificador de rendimiento
+    - Toma medidas con el Planificador de rendimiento
+    
 ## Certificación

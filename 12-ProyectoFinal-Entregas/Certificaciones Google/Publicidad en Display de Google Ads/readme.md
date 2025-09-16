@@ -26,5 +26,10 @@ Con la certificación de Publicidad en Display de Google Ads, Google reconoce qu
 - **Aumenta la eficiencia con las ofertas automáticas**
     - ¿Qué son las ofertas automáticas?
     - Elige la estrategia de oferta correcta
+- **Publica el mensaje adecuado en Google Display ads**
+    - Formatos de anuncios gráficos
+    - Anuncios de display responsivos
+    - Anuncios cargados
+- **Aumenta las conversiones con el planificador de rendimiento**
 
 ## Certificación

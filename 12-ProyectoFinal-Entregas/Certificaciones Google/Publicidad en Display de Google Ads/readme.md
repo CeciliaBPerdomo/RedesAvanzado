@@ -15,13 +15,16 @@ Con la certificación de Publicidad en Display de Google Ads, Google reconoce qu
 - Verificar que tu plan de marketing de Display sea acorde con tu presupuesto de marketing digital
 
 ## Temario
-- Identifica los tipos de campaña en Google Display ads
+- **Identifica los tipos de campaña en Google Display ads**
     - Publicidad gráfica en Google Display ads
     - Tipos de campaña de Display
-- Llega a los usuarios con Google Display ads
+- **Llega a los usuarios con Google Display ads**
     - Orientación de la Red de Display
     - Generar conocimiento de la marca
     - Influir en la consideración
     - Impulsar la acción
+- **Aumenta la eficiencia con las ofertas automáticas**
+    - ¿Qué son las ofertas automáticas?
+    - Elige la estrategia de oferta correcta
 
 ## Certificación

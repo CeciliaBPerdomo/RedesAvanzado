@@ -36,3 +36,7 @@ Con la certificación de Publicidad en Display de Google Ads, Google reconoce qu
     - Toma medidas con el Planificador de rendimiento
     
 ## Certificación
+<div align="center">
+
+![Certificación](CertificadoDeDisplayGoogle.png)
+</div>
